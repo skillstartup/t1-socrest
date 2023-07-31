@@ -3,7 +3,10 @@
 ## My Solution In Action
 <!-- Add your screen recording here. You can drag the video from your local folder to this page to add it automatically.  -->
 
-https://github.com/ralotusin/coding-challenge-socrest/assets/128768603/77edaf59-723a-4f35-94fc-03479ab11fb8
+https://github.com/skillstartup/t1-socrest/assets/140294662/8e267d3b-758e-4800-bdfb-9086359da38c
+
+
+
 
 
 ## What I Built
